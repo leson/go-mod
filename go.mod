@@ -1,4 +1,4 @@
-module go-mod-test
+module github.com/leson/go-mod
 
 go 1.17
 

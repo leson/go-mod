@@ -19,7 +19,7 @@ func main() {
 ```
 
 ```bash
-go mod init go-mod-test
+go mod init github.com/leson/go-mod
 go mod tidy
 go run main.go
 ```
